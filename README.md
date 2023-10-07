@@ -1,4 +1,7 @@
-<h1 align="center"> k66 (Lana Chen) </h1>
+<h1 align="center"> 
+k66 (Lana Chen) 
+<a href="https://k66.ninja/" target="blank"><img align="center" src="https://k66.ninja/gallery/k66_logo-ts1678881148.png" alt="https://k66.ninja/" height="40" width="50" /></a>
+</h1>
 <h3 align="center"> A software firmware developer from Taiwan </h3>
 
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
@@ -8,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lanacchen/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="https://www.linkedin.com/in/lanacchen/" height="60" width="60" /></a>
-<a href=""https://www.youtube.com/@k66inthesky" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt=""https://www.youtube.com/@k66inthesky" height="40" width="50" /></a>
-
+<a href="https://www.youtube.com/@k66inthesky" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="https://www.youtube.com/@k66inthesky" height="40" width="50" /></a>
+<a href="https://k66.ninja/" target="blank"><img align="center" src="https://k66.ninja/gallery/k66_logo-ts1678881148.png" alt="https://k66.ninja/" height="40" width="50" /></a>
 </p>
 
 
