@@ -1,24 +1,24 @@
-name: Update README with Feed Count
+name: Update README
+
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # 每天12點更新一次
+    - cron: '*/10 * * * *'
 
 jobs:
-  update_readme:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
-      
-    - name: Update Feed Count
-      id: update_count
-      run: node .github/actions/update-readme.js
-      
-    - name: Commit and Push Changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add README.md
-        git commit -m "Update label_feed_cnt"
-        git push
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
+      - name: Run update-readme.js
+        run: node .github/actions/update-readme.js
+
+      - name: Commit and push changes
+        run: |
+          # git config --global user.email "you@example.com"
+          # git config --global user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update label_feed_cnt"
+          git push
