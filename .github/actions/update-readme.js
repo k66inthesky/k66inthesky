@@ -1,17 +1,25 @@
 const fs = require('fs');
-const readmePath = 'README.md';
+const { resolve } = require('path');
 
-let readmeContent = fs.readFileSync(readmePath, 'utf-8');
+const readmePath = resolve(__dirname, '..', 'README.md');
 
-const regex = /Label Feed Count: (\d+)/;
-const match = readmeContent.match(regex);
+const label_feed_cnt = getFeedCount();
 
-if (match) {
-  const currentCount = parseInt(match[1]);
-  const newCount = currentCount + 1;
-  readmeContent = readmeContent.replace(regex, `Label Feed Count: ${newCount}`);
-  fs.writeFileSync(readmePath, readmeContent);
-  console.log(`Updated label_feed_cnt to ${newCount}`);
-} else {
-  console.log('Label Feed Count not found in README.md');
+const readmeContent = `
+![Feed Image](.github/images/feed.png)
+${label_feed_cnt}
+
+`;
+
+fs.writeFileSync(readmePath, readmeContent);
+
+function getFeedCount() {
+    let label_feed_cnt = 0; // initial as 0
+    increaseFeedCount(label_feed_cnt);
+    return `Feed Count: ${label_feed_cnt}`;
+}
+
+function increaseFeedCount(currentCount) {
+    const newCount = currentCount + 1;
+    return newCount;
 }
