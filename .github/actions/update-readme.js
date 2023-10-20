@@ -7,7 +7,7 @@ const label_feed_cnt = getFeedCount();
 
 const readmeContent = `
 ![Feed Image](.github/images/feed.png)
-${label_feed_cnt}
+{{ label_feed_cnt }}
 
 `;
 
