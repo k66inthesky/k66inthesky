@@ -4,8 +4,8 @@ import re
 with open('README.md', 'r') as readme_file:
     readme_content = readme_file.read()
 
-# 匹配 {label_feed_cnt} 的行
-label_cnt_regex = r'{label_feed_cnt}'
+# 匹配 {label_feed_cnt}
+label_cnt_regex = r'\{label_feed_cnt\}'
 match_result = re.search(label_cnt_regex, readme_content)
 
 if match_result:
@@ -14,7 +14,7 @@ if match_result:
     new_cnt = current_cnt + 1
 
     # 更新 README.md 中的 {label_feed_cnt} 为新的值
-    updated_content = readme_content.replace(label_cnt_regex, str(new_cnt))
+    updated_content = readme_content.replace(match_text, f'{{label_feed_cnt{new_cnt}}}')
 
     # 写回 README.md 文件
     with open('README.md', 'w') as updated_readme:
