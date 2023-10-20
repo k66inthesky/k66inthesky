@@ -1,29 +1,24 @@
-name: Update README
-
+name: Update README with Feed Count
 on:
   schedule:
-    - cron: "*/1 * * * * *" # update every seconds
-  # # Triggers the workflow on push or pull request events but only for the "main" branch
-  # push:
-  #   branches: [ "main" ]
-  # pull_request:
-  #   branches: [ "main" ]
+    - cron: "*/1 * * * *"
 
 jobs:
-  update-readme:
+  update_readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: 14
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Update README
-        run: node ./github/actions/update-readme.js
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Update Feed Count
+      id: update_count
+      run: node .github/actions/update-readme.js
+      
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update label_feed_cnt"
+        git push
 
