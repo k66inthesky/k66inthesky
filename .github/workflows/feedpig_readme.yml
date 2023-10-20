@@ -1,7 +1,7 @@
 name: Update README with Feed Count
 on:
   schedule:
-    - cron: "*/10 * * * *" #每十分鐘更新一次
+    - cron: "0 0 * * *" # 每天12點更新一次
 
 jobs:
   update_readme:
