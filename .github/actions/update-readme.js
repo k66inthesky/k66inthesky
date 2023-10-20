@@ -1,22 +1,26 @@
 const fs = require('fs');
 
-try{
-let readmeContent = fs.readFileSync('README.md', 'utf-8');
+try {
+  let readmeContent = fs.readFileSync('README.md', 'utf-8');
 
-const labelCntRegex = /{label_feed_cnt}/g;
+  const labelCntRegex = /{label_feed_cnt}/g;
 
-const currentCnt = parseInt(readmeContent.match(labelCntRegex)[0].replace(/\D/g, ''));
+  const matchResult = readmeContent.match(labelCntRegex);
 
-const newCnt = currentCnt + 1;
+  if (matchResult && matchResult.length > 0) {
+    const currentCnt = parseInt(matchResult[0].replace(/\D/g, ''));
 
-readmeContent = readmeContent.replace(labelCntRegex, newCnt);
+    const newCnt = currentCnt + 1;
 
-fs.writeFileSync('README.md', readmeContent);
+    readmeContent = readmeContent.replace(labelCntRegex, newCnt);
 
-console.log(`label_feed_cnt 已更新為: ${newCnt}`);
-} catch (error){
-  console.error('發生錯誤: ', error);
-  process.exit(1);
+    fs.writeFileSync('README.md', readmeContent);
+
+    console.log(`label_feed_cnt 已更新: ${newCnt}`);
+  } else {
+    console.error('未找到: {label_feed_cnt}');
+  }
+} catch (error) {
+  console.error('錯誤：', error);
+  process.exit(1); 
 }
-
-
