@@ -6,7 +6,7 @@ k66 (Lana Chen)
 
 
 ![Feed the Pig](.github/images/feed.png)
-Label Feed Count: {label_feed_cnt0}
+Label Feed Count: `{label_feed_cnt}`
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
 
