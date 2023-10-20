@@ -16,14 +16,26 @@ try {
 // update label_feed_cnt
 labelFeedCnt += 1;
 
-// update README.md
-fs.readFile('README.md', 'utf8', function (err, data) {
-  if (err) {
-    return console.log(err);
-  }
-  const result = data.replace(/{label_feed_cnt}/g, labelFeedCnt);
+// create dynamic label
+const badgeURL = `https://img.shields.io/badge/Feed%20Count-${labelFeedCnt}-brightgreen`;
+https.get(badgeURL, (res) => {
+  let badge = '';
+  res.on('data', (chunk) => {
+    badge += chunk;
+  });
 
-  fs.writeFile('README.md', result, 'utf8', function (err) {
-    if (err) return console.log(err);
+
+res.on('end', () => {
+    // update README.md中的占位符
+    fs.readFile('README.md', 'utf8', function (err, data) {
+      if (err) {
+        return console.log(err);
+      }
+      const result = data.replace(/{label_feed_cnt}/g, badge);
+
+      fs.writeFile('README.md', result, 'utf8', function (err) {
+        if (err) return console.log(err);
+      });
+    });
   });
 });
