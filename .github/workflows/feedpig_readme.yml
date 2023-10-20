@@ -12,13 +12,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Run update-readme.js
-        run: node .github/actions/update-readme.js
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Run update_readme.py
+        run: python update_readme.py
 
       - name: Commit and push changes
         run: |
-          # git config --global user.email "you@example.com"
-          # git config --global user.name "GitHub Actions"
+          git config --global user.email "you@example.com"
+          git config --global user.name "GitHub Actions"
           git add README.md
           git commit -m "Update label_feed_cnt"
           git push
