@@ -4,6 +4,9 @@ k66 (Lana Chen)
 </h1>
 <h3 align="center"> A software firmware developer from Taiwan </h3>
 
+[![Feed Button](/.github/images/feed.png)](javascript:feedMe())
+{label_feed_cnt}
+
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
 - 🔭 I’m currently working on [OinkBL](https://github.com/k66inthesky/OinkBL), and its [articles](https://ithelp.ithome.com.tw/users/20161828/ironman/6446).
