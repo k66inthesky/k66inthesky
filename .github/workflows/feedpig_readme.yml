@@ -20,10 +20,4 @@ jobs:
       - name: Run update_readme.py
         run: python update_readme.py
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "GitHub Actions"
-          git add README.md
-          git commit -m "Update label_feed_cnt"
-          git push
+     
