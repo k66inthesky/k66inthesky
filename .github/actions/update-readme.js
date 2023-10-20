@@ -16,7 +16,7 @@ fs.writeFileSync(readmePath, readmeContent);
 function getFeedCount() {
     let label_feed_cnt = 0; // initial as 0
     increaseFeedCount(label_feed_cnt);
-    return `Feed Count: ${label_feed_cnt}`;
+    return `Feed Count: `{{label_feed_cnt}}`;
 }
 
 function increaseFeedCount(currentCount) {
