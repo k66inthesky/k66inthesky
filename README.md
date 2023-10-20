@@ -5,7 +5,8 @@ k66 (Lana Chen)
 <h3 align="center"> A software firmware developer from Taiwan </h3>
 
 [![Feed Button](/.github/images/feed.png)](javascript:feedMe())
-{label_feed_cnt}
+![Feed Count](https://img.shields.io/badge/Feed%20Count-{label_feed_cnt}-brightgreen)
+
 
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
