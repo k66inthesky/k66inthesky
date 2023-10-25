@@ -5,8 +5,6 @@ k66 (Lana Chen)
 <h3 align="center"> A software firmware developer from Taiwan </h3>
 
 
-![Feed the Pig](.github/images/feed.png)
-Label Feed Count: `{label_feed_cnt}`
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
 
