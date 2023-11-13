@@ -34,6 +34,23 @@ k66 (Lana Chen)
   <a href="https://www.linux.org/" target="_blank" rel="Linux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
+### My visitors are from...
+<a href="https://mapmyvisitors.com/web/1bvjk"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=kRrGjgi4CI9yUixkEVAK9_kUhtUroKjMlw9qoE8Bo5g&cl=ffffff" /></a>
+
+
+---
+
+### My Fitness Log
+##### 2023.11
+
+|📅 Date|🚴 Ride(km)|🏃 Run(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
+|:-:|:-:|:-:|:-:|:-:|
+|Week1| x|6|x|x|
+|Week2| x|12|x|x|
+|Week3| x|3|x|8|
+|Week4| x|x|x|x|
+|Week4| x|x|x|x|
+
 
 
 <!--
