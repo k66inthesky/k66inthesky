@@ -48,8 +48,8 @@ k66 (Lana Chen)
 |Week1| x|6|x|x|
 |Week2| x|12|x|x|
 |Week3| x|7|x|16|
-|Week4| x|x|x|x|
-|Week4| x|x|x|x|
+|Week4| x|4|x|8|
+|Week5| x|x|x|x|
 
 
 
