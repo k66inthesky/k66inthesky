@@ -9,7 +9,7 @@ k66 (Lana Chen)
 
 
 
-- 🔭 I’m currently working on [OinkBL](https://github.com/k66inthesky/OinkBL), and its [articles](https://ithelp.ithome.com.tw/users/20161828/ironman/6446).
+- 🔭 I’m currently working on [WoZai](https://github.com/k66inthesky/WoZai).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,7 +49,7 @@ k66 (Lana Chen)
 |Week2| x|12|x|x|
 |Week3| x|7|x|16|
 |Week4| x|4|x|8|
-|Week5| x|x|x|x|
+|Week5| x|3||8|
 
 
 
