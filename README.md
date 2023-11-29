@@ -8,7 +8,7 @@ k66 (Lana Chen)
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
 
-- 🔭 I make a UEFI bootloader [OinkBL](https://github.com/k66inthesky/OinkBL), and its [articles](https://ithelp.ithome.com.tw/users/20161828/ironman/6446).
+- 🔭 I developed a UEFI bootloader [OinkBL](https://github.com/k66inthesky/OinkBL), and its [articles](https://ithelp.ithome.com.tw/users/20161828/ironman/6446).
 - 🔭 I’m currently working on [k66.ninja](https://k66.ninja). My website is undergoing maintenance as we switch to a new hosting plan, providing a chance to add new features. The site is temporarily closed for this purpose.
 
 <h3 align="left">Connect with me:</h3>
