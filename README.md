@@ -49,7 +49,7 @@ k66 (Lana Chen)
 |Week2| x|x|600|x|
 |Week3| x|x|600|12|
 |Week4| x|3|x|8|
-|Week5| x|x|x|x|
+|Week5| x|6|x|x|
 
 ##### 2023.11
 
