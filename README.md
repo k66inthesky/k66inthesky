@@ -8,7 +8,7 @@ k66 (Lana Chen)
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
 
-- 🔭 I’m currently working on [k66.ninja](https://k66.ninja). My website is undergoing maintenance as we switch to a new hosting plan, providing a chance to add new features. The site is temporarily closed for this purpose.
+- 🔭 I’m currently working on [k66.ninja](https://k66.ninja) and private trading research.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
