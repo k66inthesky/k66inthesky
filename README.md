@@ -8,7 +8,7 @@ k66 (Lana Chen)
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
 
-- 🔭 I’m currently working on [k66.ninja](https://k66.ninja) and private trading research.
+- 🔭 Currently working on private stock trading research.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,7 +46,7 @@ k66 (Lana Chen)
 |📅 Date|🚴 Ride(km)|🏃 Run(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
 |Week1| x|3|1|16|
-|Week2| x|x|x|x|
+|Week2| x|1|x|8|
 |Week3| x|x|x|x|
 |Week4| x|x|x|x|
 |Week5| x|x|x|x|
