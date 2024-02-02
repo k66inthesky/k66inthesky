@@ -42,6 +42,17 @@ k66 (Lana Chen)
 
 ### My Fitness Log
 
+##### 2024.2
+
+|📅 Date|🚴 Ride(km)|🏃 Run(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
+|:-:|:-:|:-:|:-:|:-:|
+|Week1| x|3|x|x|
+|Week2| x|x|x|x|
+|Week3| x|x|x|x|
+|Week4| x|x|x|x|
+|Week5| x|x|x|x|
+
+
 ##### 2024.1
 
 |📅 Date|🚴 Ride(km)|🏃 Run(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
@@ -49,8 +60,8 @@ k66 (Lana Chen)
 |Week1| x|3|1|16|
 |Week2| x|1|x|8|
 |Week3| x|x|x|x|
-|Week4| x|x|x|x|
-|Week5| x|x|x|x|
+|Week4| x|6|x|10|
+|Week5| x|6|x|x|
 
 
 ##### 2023.12
