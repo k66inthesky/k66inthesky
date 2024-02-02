@@ -8,7 +8,7 @@ k66 (Lana Chen)
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
 
-- 🔭 Currently working on private stock trading research.
+- 📈 Currently working on private stock trading research.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
