@@ -47,7 +47,7 @@ k66 (Lana Chen)
 |📅 Date|🚴 Ride(km)|🏃 Run(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
 |Week1| x|3|x|x|
-|Week2| x|x|x|x|
+|Week2| x|6|x|x|
 |Week3| x|x|x|x|
 |Week4| x|x|x|x|
 |Week5| x|x|x|x|
