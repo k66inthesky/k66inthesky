@@ -2,13 +2,14 @@
 k66 (Lana Chen) 
 <a href="https://k66.ninja/" target="blank"><img align="center" src="https://k66.ninja/gallery/k66_logo-ts1678881148.png" alt="https://k66.ninja/" height="40" width="50" /></a>
 </h1>
-<h3 align="center"> A software firmware developer from Taiwan </h3>
+<h3 align="center"> A SWE/trader from Taiwan </h3>
 
 
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
 
 - 📈 Currently working on private stock trading research.
+- 🦀 Currently working on [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
