@@ -8,8 +8,10 @@ k66 (Lana Chen)
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
 
-- 📈 Currently working on private stock trading research.
-- 🦀 Currently working on [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust).
+Currently working on
+- 📈 Private stock trading research
+- 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust)
+- ✍️ Manga script
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,11 +47,11 @@ k66 (Lana Chen)
 
 ##### 2024.2
 
-|📅 Date|🚴 Ride(km)|🏃 Run(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
+|📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
 |Week1| x|3|x|x|
 |Week2| x|6|x|x|
-|Week3| x|x|x|x|
+|Week3| x|2|x|20|
 |Week4| x|x|x|x|
 |Week5| x|x|x|x|
 
