@@ -52,7 +52,7 @@ Currently working on
 |Week1| x|3|x|x|
 |Week2| x|6|x|x|
 |Week3| x|2|x|20|
-|Week4| x|x|x|x|
+|Week4| x|4|x|x|
 |Week5| x|x|x|x|
 
 
