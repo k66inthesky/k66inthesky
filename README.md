@@ -9,9 +9,11 @@ k66 (Lana Chen)
 
 
 Currently working on
+- 📈 [TW-Stock](https://github.com/k66inthesky/TW-stock) [Complete] 
 - 📈 Private stock trading research
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust)
 - ✍️ Manga script
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,6 +47,16 @@ Currently working on
 
 ### My Fitness Log
 
+##### 2024.3
+
+|📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
+|:-:|:-:|:-:|:-:|:-:|
+|Week1| x|x|1|x|
+|Week2| x|x|x|x|
+|Week3| x|x|x|x|
+|Week4| x|x|x|x|
+|Week5| x|x|1|x|
+
 ##### 2024.2
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
@@ -53,7 +65,7 @@ Currently working on
 |Week2| x|6|x|x|
 |Week3| x|2|x|20|
 |Week4| x|6|x|x|
-|Week5| x|x|x|x|
+|Week5| x|x|1|x|
 
 
 ##### 2024.1
