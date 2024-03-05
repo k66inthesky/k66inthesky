@@ -9,10 +9,15 @@ k66 (Lana Chen)
 
 
 Currently working on
-- 📈 [TW-Stock](https://github.com/k66inthesky/TW-stock) [Complete] 
-- 📈 Private stock trading research
+- 📈 Daily/short-term stock trading research
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust)
 - ✍️ Manga script
+
+4 projects using web crawler:
++ [News](https://github.com/k66inthesky/Predict_News)
++ [Manga](https://github.com/k66inthesky/AutoDownloadManga)
++ [Novels](https://github.com/k66inthesky/Master-Thesis)
++ [TW-stock](https://github.com/k66inthesky/TW-stock) 
 
 
 <h3 align="left">Connect with me:</h3>
@@ -52,7 +57,7 @@ Currently working on
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
 |Week1| x|x|1|x|
-|Week2| x|x|x|x|
+|Week2| x|x|2|x|
 |Week3| x|x|x|x|
 |Week4| x|x|x|x|
 |Week5| x|x|1|x|
