@@ -56,9 +56,9 @@ Currently working on
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
-|Week1| x|x|1|x|
-|Week2| x|x|2|x|
-|Week3| x|x|x|x|
+|Week1| x|1|1|x|
+|Week2| x|2|x|2|
+|Week3| x|5|x|4|
 |Week4| x|x|x|x|
 |Week5| x|x|1|x|
 
