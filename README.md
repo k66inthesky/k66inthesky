@@ -22,10 +22,7 @@ Tools:
 
 
 4 projects using web crawler:
-+ [News](https://github.com/k66inthesky/Predict_News)
-+ [Manga](https://github.com/k66inthesky/AutoDownloadManga)
-+ [Novels](https://github.com/k66inthesky/Master-Thesis)
-+ [TW-stock](https://github.com/k66inthesky/TW-stock) 
+[News](https://github.com/k66inthesky/Predict_News), [Manga](https://github.com/k66inthesky/AutoDownloadManga), [Novels](https://github.com/k66inthesky/Master-Thesis), [TW-stock](https://github.com/k66inthesky/TW-stock) .
 
 
 <h3 align="left">Connect with me:</h3>
