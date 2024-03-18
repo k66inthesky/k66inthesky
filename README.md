@@ -9,7 +9,7 @@ k66 (Lana Chen)
 
 
 Currently working on
-- 📈 Focus on daily/short-term crytpo & tw-stock.
+- 📈 Daily/short-term crytpo & tw-stock.
 - ✍️ Manga script
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust)
 
