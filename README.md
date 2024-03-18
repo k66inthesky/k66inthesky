@@ -10,11 +10,16 @@ k66 (Lana Chen)
 
 Currently working on
 - 📈 Focus on daily/short-term crytpo & tw-stock.
-- 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust)
 - ✍️ Manga script
+- 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust)
 
-Just complete:
-- 📈 [TW-Stock](https://github.com/k66inthesky/TW-stock/): Python tool about web crawling 20 years stock data and backtesting.
+
+Tools:
+- [TW-Stock](https://github.com/k66inthesky/TW-stock/): Python tool for web crawling 20+ years stock data and backtesting.
+- [OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
+- [BRB](https://github.com/k66inthesky/BRB):  One-click tool, tell people you will Be Right Back(BRB), in conference or write a bulletin note.
+- [線上文風比對系統](http://140.117.168.48:3000/similarity): My online compare writing style tool, [my master thesis](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22109NSYS5392077%22.&searchmode=basic). 
+
 
 4 projects using web crawler:
 + [News](https://github.com/k66inthesky/Predict_News)
