@@ -9,9 +9,12 @@ k66 (Lana Chen)
 
 
 Currently working on
-- 📈 Daily/short-term stock trading research
+- 📈 Focus on daily/short-term crytpo & tw-stock.
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust)
 - ✍️ Manga script
+
+Just complete:
+- 📈 [TW-Stock](https://github.com/k66inthesky/TW-stock/): Python tool about web crawling 20 years stock data and backtesting.
 
 4 projects using web crawler:
 + [News](https://github.com/k66inthesky/Predict_News)
@@ -58,8 +61,8 @@ Currently working on
 |:-:|:-:|:-:|:-:|:-:|
 |Week1| x|1|1|x|
 |Week2| x|2|x|120|
-|Week3| x|5|x|4|
-|Week4| x|x|x|x|
+|Week3| x|5|x|8|
+|Week4| x|2|x|x|
 |Week5| x|x|1|x|
 
 
