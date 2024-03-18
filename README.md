@@ -2,7 +2,7 @@
 k66 (Lana Chen) 
 <a href="https://k66.ninja/" target="blank"><img align="center" src="https://k66.ninja/gallery/k66_logo-ts1678881148.png" alt="https://k66.ninja/" height="40" width="50" /></a>
 </h1>
-<h3 align="center"> A SWE/trader from Taiwan </h3>
+<h3 align="center"> A SWE/trader from Taiwan, I like jogging and camping. </h3>
 
 
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
@@ -17,7 +17,7 @@ Currently working on
 Tools:
 - [TW-Stock](https://github.com/k66inthesky/TW-stock/): Python tool for web crawling 20+ years stock data and backtesting.
 - [OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
-- [BRB](https://github.com/k66inthesky/BRB):  One-click tool, tell people you will Be Right Back(BRB), in conference or write a bulletin note.
+- [BRB](https://github.com/k66inthesky/BRB):  One-click tool, immediately tell people you will Be Right Back(BRB), in conference or write a bulletin note.
 - [線上文風比對系統](http://140.117.168.48:3000/similarity): My online compare writing style tool, [my master thesis](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22109NSYS5392077%22.&searchmode=basic). 
 
 
