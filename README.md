@@ -65,7 +65,7 @@ Tools:
 |Week2| x|2|x|120|
 |Week3| x|5|x|8|
 |Week4| x|2|x|x|
-|Week5| x|x|1|x|
+|Week5| x|4|1|10|
 
 
 
