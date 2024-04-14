@@ -57,15 +57,15 @@ Tools:
 
 ### My Fitness Log
 
-##### 2024.3
+##### 2024.4
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
-|Week1| x|1|1|x|
-|Week2| x|2|x|120|
-|Week3| x|5|x|8|
-|Week4| x|2|x|x|
-|Week5| x|7|1|26|
+|Week1| x|6|x|x|
+|Week2| 10|10|x|120|
+|Week3| x|x|x|x|
+|Week4| x|x|x|x|
+|Week5| x|x|x|x|
 
 
 
