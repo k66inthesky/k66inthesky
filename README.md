@@ -49,8 +49,8 @@ Tools:
   <a href="https://www.linux.org/" target="_blank" rel="Linux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-### My visitors are from...
-<a href="https://mapmyvisitors.com/web/1bvjk"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=kRrGjgi4CI9yUixkEVAK9_kUhtUroKjMlw9qoE8Bo5g&cl=ffffff" /></a>
+
+<a href="https://buymeacoffee.com/k66inthesky"  title="BuyMeACoffee"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlUX3K42FW5OXOjHq5coVXi08P4KH-zwFjtQ&s" /></a>
 
 
 ---
