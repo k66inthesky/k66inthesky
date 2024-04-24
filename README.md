@@ -9,9 +9,9 @@ k66 (Lana Chen)
 
 
 Currently working on
-- 📈 Daily, short-term crytpo & tw-stock.
-- ✍️ Manga script
-- 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust)
+- 📈 Daily, short-term crytpo.
+- ✍️ Manga script, which will be released on this May.
+- 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust), welcome to colab with me!
 
 
 Tools:
@@ -63,8 +63,8 @@ Tools:
 |:-:|:-:|:-:|:-:|:-:|
 |Week1| x|6|x|x|
 |Week2| 10|10|x|120|
-|Week3| x|x|x|x|
-|Week4| x|x|x|x|
+|Week3| 5|6|x|x|
+|Week4| x|2|x|x|
 |Week5| x|x|x|x|
 
 
