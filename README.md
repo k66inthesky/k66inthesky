@@ -62,7 +62,7 @@ Tools:
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
-|Week1| x|x|x|x|
+|Week1| 2|2|x|x|
 |Week2| x|x|x|x|
 |Week3| x|x|x|x|
 |Week4| x|x|x|x|
