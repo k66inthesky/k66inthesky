@@ -9,7 +9,7 @@ k66 (Lana Chen)
 
 
 Currently working on
-- 🪙 Will release memecoin by this July. Please follow it.
+- 🪙 Will release memecoin soon. Please follow it.
 - 📈 Daily, short-term crytpo.
 - ✍️ Manga script. Season1 is completed.
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust), welcome to colab with me!
@@ -58,13 +58,13 @@ Tools:
 
 ### My Fitness Log
 
-##### 2024.7
+##### 2024.8
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
-|Week1| 2|2|x|x|
-|Week2| x|x|x|x|
-|Week3| x|x|x|x|
+|Week1| x|9|x|x|
+|Week2| x|15|x|x|
+|Week3| x|2|x|x|
 |Week4| x|x|x|x|
 |Week5| x|x|x|x|
 
