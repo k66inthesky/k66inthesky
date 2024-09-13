@@ -9,6 +9,7 @@ k66 (Lana Chen)
 
 
 Currently working on
+- ✍️ Will release investment videos on Youtube/iT鐵人賽. Please follow it.
 - 🪙 Will release a web3 project soon. Please follow it.
 - 📈 Daily, short-term crytpo.
 - ✍️ Manga script. Season1 is completed.
