@@ -10,7 +10,6 @@ k66 (Lana Chen)
 
 Currently working on
 - ✍️ Investment videos on [Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM)/[iT鐵人賽](https://ithelp.ithome.com.tw/users/20161828/ironman/7843).
-- 🪙 Will release a web3 project soon. Please follow it.
 - 📈 Daily, short-term crytpo.
 - ✍️ Manga script. Season1 is completed.
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust), welcome to colab with me!
