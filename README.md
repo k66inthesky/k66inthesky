@@ -8,9 +8,11 @@ k66 (Lana Chen)
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
 
-Currently working on
-- ✍️ Investment videos on [Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM)/[iT鐵人賽](https://ithelp.ithome.com.tw/users/20161828/ironman/7843).
-- 📈 Daily, short-term crytpo.
+Invest cryptos videos&articles:
+- [Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM)
+- [iT鐵人賽(articles in Chinese)](https://ithelp.ithome.com.tw/users/20161828/ironman/7843)
+
+
 - ✍️ Manga script. Season1 is completed.
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust), welcome to colab with me!
 
@@ -20,11 +22,11 @@ Tools:
 - [OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
 - [BRB](https://github.com/k66inthesky/BRB):  One-click tool, immediately tell people you will Be Right Back(BRB), in conference or write a bulletin note.
 - [線上文風比對系統](http://140.117.168.48:3000/similarity): My online compare writing style tool, [my master thesis](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22109NSYS5392077%22.&searchmode=basic). 
+- [Downdload Manga](https://github.com/k66inthesky/AutoDownloadManga): An auto download manga tool, download from 漫畫人(https://www.manhuaren.com/search).
+- [Auto-click Youtube](https://github.com/k66inthesky/YoutubeAutorun): An One-click continuous auto-click youtube tool.
 
-
-4 web crawl projects:
-[News](https://github.com/k66inthesky/Predict_News), [Manga](https://github.com/k66inthesky/AutoDownloadManga), [Novels](https://github.com/k66inthesky/Master-Thesis), [TW-stock](https://github.com/k66inthesky/TW-stock) .
-
+Master Thesis:
+- [Master Thesis](https://github.com/k66inthesky/Master-Thesis)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
