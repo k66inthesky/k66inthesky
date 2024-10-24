@@ -13,7 +13,7 @@ Invest cryptos videos&articles:
 - [iT鐵人賽(articles in Chinese)](https://ithelp.ithome.com.tw/users/20161828/ironman/7843)
 
 
-- ✍️ Manga script. Season1 is completed.
+- ✍️ [Ruckus Manga](https://www.youtube.com/@RuckusManga%E9%BA%BB%E7%85%A9%E6%BC%AB%E7%95%AB%E7%A4%BE), season 1 has completed.
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust), welcome to colab with me!
 
 
