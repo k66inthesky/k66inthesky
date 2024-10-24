@@ -8,7 +8,7 @@ k66 (Lana Chen)
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
 
-My 2024: 
+k66's 2024: 
 - Cryptos investment videos&articles: [Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM), [iT鐵人賽(articles in Chinese)](https://ithelp.ithome.com.tw/users/20161828/ironman/7843)
 - ✍️ [Ruckus Manga](https://www.youtube.com/@RuckusManga%E9%BA%BB%E7%85%A9%E6%BC%AB%E7%95%AB%E7%A4%BE), season 1 has completed.
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust), welcome to colab with me!
