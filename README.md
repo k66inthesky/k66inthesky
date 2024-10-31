@@ -8,9 +8,9 @@ k66 (Lana Chen)
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
 
-k66's 2024: 
+Tutorials: 
 - Cryptos investment videos&articles: [Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM), [iT鐵人賽(articles in Chinese)](https://ithelp.ithome.com.tw/users/20161828/ironman/7843)
-- ✍️ [Ruckus Manga](https://www.youtube.com/@RuckusManga%E9%BA%BB%E7%85%A9%E6%BC%AB%E7%95%AB%E7%A4%BE), season 1 has completed.
+- [OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust), welcome to colab with me!
 
 
@@ -23,7 +23,10 @@ Tools:
 - [Auto-click Youtube](https://github.com/k66inthesky/YoutubeAutorun): An One-click continuous auto-click youtube tool.
 
 Master Thesis:
-- [Master Thesis](https://github.com/k66inthesky/Master-Thesis)
+- 🎓 [Master Thesis](https://github.com/k66inthesky/Master-Thesis)
+
+Projects:
+- 📚 [Ruckus Manga](https://www.youtube.com/@RuckusManga%E9%BA%BB%E7%85%A9%E6%BC%AB%E7%95%AB%E7%A4%BE), season 1 has completed.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,8 +67,8 @@ Master Thesis:
 |Week1| x|0|x|x|
 |Week2| x|3|x|x|
 |Week3| x|1|x|x|
-|Week4| x|x|x|x|
-|Week5| x|x|x|x|
+|Week4| x|3|x|x|
+|Week5| x|1|x|x|
 
 
 
