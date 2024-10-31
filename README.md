@@ -9,8 +9,8 @@ k66 (Lana Chen)
 
 
 Tutorials: 
-- Cryptos investment videos&articles: [Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM), [iT鐵人賽(articles in Chinese)](https://ithelp.ithome.com.tw/users/20161828/ironman/7843)
-- [OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
+- ₿ 📈 Cryptos investment videos&articles: [Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM), [iT鐵人賽(articles in Chinese)](https://ithelp.ithome.com.tw/users/20161828/ironman/7843)
+- ▶ [OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust), welcome to colab with me!
 
 
