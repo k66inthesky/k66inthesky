@@ -60,15 +60,15 @@ Projects:
 
 ### My Fitness Log
 
-##### 2024.10
+##### 2024.11
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
-|Week1| x|0|x|x|
-|Week2| x|3|x|x|
-|Week3| x|1|x|x|
-|Week4| x|3|x|x|
-|Week5| x|1|x|x|
+|Week1| x|x|7|x|
+|Week2| x|x|10|x|
+|Week3| x|x|6.5|x|
+|Week4| x|x|5|x|
+|Week5| x|x|x|x|
 
 
 
