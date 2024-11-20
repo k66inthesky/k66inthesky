@@ -19,6 +19,8 @@ Play a game: Predict today's Bitcoin price.
 Rise(看漲次數): 0
 Fall(看跌次數): 0
 
+<!-- BUTTON_VOTE_PLACEHOLDER -->
+
 [![Green Button (Rise)](https://img.shields.io/badge/Rise-Green?style=for-the-badge&color=green)](#)
 [![Red Button (Fall)](https://img.shields.io/badge/Fall-Red?style=for-the-badge&color=red)](#)
 
