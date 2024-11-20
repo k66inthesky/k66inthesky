@@ -20,7 +20,13 @@ jobs:
           mkdir -p predictions
           echo "::set-output name=rise::$(cat predictions/rise.txt 2>/dev/null || echo 0)"
           echo "::set-output name=fall::$(cat predictions/fall.txt 2>/dev/null || echo 0)"
-
+          
+      - name: Initialize prediction files
+        run: |
+          mkdir -p predictions
+          [ -f predictions/rise.txt ] || echo 0 > predictions/rise.txt
+          [ -f predictions/fall.txt ] || echo 0 > predictions/fall.txt
+          
       - name: Process prediction
         if: github.event.action == 'price_prediction'
         run: |
