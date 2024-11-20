@@ -61,5 +61,9 @@ jobs:
           git config user.name "GitHub Action Bot"
           git config user.email "actions@github.com"
           git add README.md predictions/
-          git commit -m "Update prediction counts"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update prediction counts"
+            git push
+          else
+            echo "No changes to commit or push."
+          fi
