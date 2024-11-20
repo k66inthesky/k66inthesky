@@ -7,10 +7,20 @@ k66 (Lana Chen)
 
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
-Play a game(小遊戲):
-  + Predict Bitcoin Rise/Down(請來賓預測今日比特幣看多/看空)
-  + 
-<!-- BUTTON_VOTE_PLACEHOLDER -->
+---
+
+## Bitcoin Price Predictions
+
+這是用於預測比特幣價格的項目。
+
+<!-- PREDICTION_PLACEHOLDER -->
+
+[![Green Button (Rise)](https://img.shields.io/badge/Rise-Green?style=for-the-badge&color=green)](#)
+[![Red Button (Fall)](https://img.shields.io/badge/Fall-Red?style=for-the-badge&color=red)](#)
+
+---
+
+
 
 Tutorials: 
 - ₿ 📈 Cryptos investment videos&articles: [Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM), [iT鐵人賽(articles in Chinese)](https://ithelp.ithome.com.tw/users/20161828/ironman/7843)
