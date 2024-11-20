@@ -11,7 +11,7 @@ k66 (Lana Chen)
 
 ## Bitcoin Price Predictions
 
-這是用於預測比特幣價格的項目。
+Play a game: Predict today's Bitcoin price.
 
 <!-- PREDICTION_PLACEHOLDER -->
 
