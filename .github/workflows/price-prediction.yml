@@ -13,7 +13,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
+        with: 
+          ref: main #main分支
+      - name: Verify prediction files
+        run: |
+          ls -la predictions/
+          cat predictions/rise.txt || echo "rise.txt not found"
+          cat predictions/fall.txt || echo "fall.txt not found"
       - name: Get existing prediction counts
         id: read_predictions
         run: |
