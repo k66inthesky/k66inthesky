@@ -1,6 +1,7 @@
 name: Bitcoin Price Prediction Counter
 
 on:
+  workflow_dispatch: # 添加此行以允許手動觸發
   schedule:
     - cron: "*/1 * * * *" # 測試接段：每分鐘觸發
   repository_dispatch:
