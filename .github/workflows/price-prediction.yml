@@ -52,7 +52,7 @@ jobs:
           prediction_content="## Bitcoin Price Predictions\nGreen (Rise): $(cat predictions/rise.txt || echo 0)\nRed (Fall): $(cat predictions/fall.txt || echo 0)\nUpdated at: $(date)"
           
           # 使用 sed 替換占位符
-          updated_readme=$(echo "$current_readme" | sed -e "/<!-- PREDICTION_PLACEHOLDER -->/c\\$prediction_content")
+          updated_readme=$(echo "$current_readme" | sed -e "/<!-- BUTTON_VOTE_PLACEHOLDER -->/c\\$prediction_content")
           
           # 將更新的內容寫回 README.md
           echo "$updated_readme" > README.md
