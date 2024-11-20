@@ -13,9 +13,11 @@ k66 (Lana Chen)
 
 Play a game: Predict today's Bitcoin price.
 
-## Bitcoin Price Predictions
-Green (Rise): 0
-Red (Fall): 0
+## Result統計結果: 
+(everybody has infinite votes一人多票)
+
+Rise(看漲次數): 0
+Fall(看跌次數): 0
 
 [![Green Button (Rise)](https://img.shields.io/badge/Rise-Green?style=for-the-badge&color=green)](#)
 [![Red Button (Fall)](https://img.shields.io/badge/Fall-Red?style=for-the-badge&color=red)](#)
