@@ -7,6 +7,10 @@ k66 (Lana Chen)
 
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
+Play a game(小遊戲):
+  + Predict Bitcoin Rise/Down(請來賓預測今日比特幣看多/看空)
+  + 
+<!-- BUTTON_VOTE_PLACEHOLDER -->
 
 Tutorials: 
 - ₿ 📈 Cryptos investment videos&articles: [Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM), [iT鐵人賽(articles in Chinese)](https://ithelp.ithome.com.tw/users/20161828/ironman/7843)
