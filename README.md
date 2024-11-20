@@ -16,8 +16,8 @@ Play a game: Predict today's Bitcoin price.
 ## Result統計結果: 
 (everybody has infinite votes一人多票)
 
-Rise(看漲次數): 0
-Fall(看跌次數): 0
+Rise(看漲次數): 10
+Fall(看跌次數): 10
 
 <!-- BUTTON_VOTE_PLACEHOLDER -->
 
