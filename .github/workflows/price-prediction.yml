@@ -1,0 +1,52 @@
+name: Bitcoin Price Prediction Counter
+
+on:
+  schedule:
+    - cron: "*/1 * * * *" # 測試接段：每分鐘觸發
+  repository_dispatch:
+    types: [price_prediction]
+
+jobs:
+  update_predictions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get existing prediction counts
+        id: read_predictions
+        run: |
+          mkdir -p predictions
+          echo "::set-output name=rise::$(cat predictions/rise.txt 2>/dev/null || echo 0)"
+          echo "::set-output name=fall::$(cat predictions/fall.txt 2>/dev/null || echo 0)"
+
+      - name: Process prediction
+        if: github.event.action == 'price_prediction'
+        run: |
+          PREDICTION=$(echo "${{ github.event.client_payload.prediction }}" | tr -d '\n')
+          if [ "$PREDICTION" == "rise" ]; then
+            echo $(( ${{ steps.read_predictions.outputs.rise }} + 1 )) > predictions/rise.txt
+          elif [ "$PREDICTION" == "fall" ]; then
+            echo $(( ${{ steps.read_predictions.outputs.fall }} + 1 )) > predictions/fall.txt
+          fi
+
+      - name: Update README
+        run: |
+          # 讀取當前 README 內容
+          current_readme=$(cat README.md)
+
+          # 構建新的預測區域內容
+          prediction_content="## Bitcoin Price Predictions\nGreen (Rise): $(cat predictions/rise.txt || echo 0)\nRed (Fall): $(cat predictions/fall.txt || echo 0)"
+
+          # 替換占位符內容
+          updated_readme=$(echo "$current_readme" | sed -e "/<!-- PREDICTION_PLACEHOLDER -->/c\\$prediction_content")
+
+          # 將更新的內容寫回 README.md
+          echo "$updated_readme" > README.md
+
+          # 提交修改
+          git config user.name "GitHub Action Bot"
+          git config user.email "actions@github.com"
+          git add README.md predictions/
+          git commit -m "Update prediction counts"
+          git push
