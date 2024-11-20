@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bitcoin Price Prediction</title>
+  <style>
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin: 10px;
+      border: none;
+      color: white;
+      cursor: pointer;
+    }
+    .rise {
+      background-color: green;
+    }
+    .fall {
+      background-color: red;
+    }
+  </style>
+  <script>
+    async function predict(outcome) {
+      // 發送按鈕點擊事件到 GitHub Actions
+      const response = await fetch(`https://api.github.com/repos/<your-username>/<your-repo>/dispatches`, {
+        method: 'POST',
+        headers: {
+          'Authorization': 'Bearer <your-personal-access-token>',
+          'Accept': 'application/vnd.github.everest-preview+json',
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          event_type: 'price_prediction',
+          client_payload: { prediction: outcome }
+        })
+      });
+
+      if (response.ok) {
+        alert(`Thanks for your prediction! You predicted Bitcoin will ${outcome === 'rise' ? 'rise' : 'fall'}.`);
+      } else {
+        alert('Failed to record prediction.');
+      }
+    }
+  </script>
+</head>
+<body>
+  <h1>Predict Bitcoin Price Movement</h1>
+  <p>Do you think Bitcoin's price will rise or fall?</p>
+  <button class="rise" onclick="predict('rise')">Rise</button>
+  <button class="fall" onclick="predict('fall')">Fall</button>
+</body>
+</html>
