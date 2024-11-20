@@ -48,19 +48,23 @@ jobs:
           # 讀取當前 README 內容
           current_readme=$(cat README.md)
 
-          # 構建新的預測區域內容
-          prediction_content="## Bitcoin Price Predictions\nGreen (Rise): $(cat predictions/rise.txt || echo 0)\nRed (Fall): $(cat predictions/fall.txt || echo 0)"
-
-          # 替換占位符內容
+          # 構建新的預測內容，包括時間戳
+          prediction_content="## Bitcoin Price Predictions\nGreen (Rise): $(cat predictions/rise.txt || echo 0)\nRed (Fall): $(cat predictions/fall.txt || echo 0)\nUpdated at: $(date)"
+          
+          # 使用 sed 替換占位符
           updated_readme=$(echo "$current_readme" | sed -e "/<!-- PREDICTION_PLACEHOLDER -->/c\\$prediction_content")
-
+          
           # 將更新的內容寫回 README.md
           echo "$updated_readme" > README.md
 
-          # 提交修改
+          # 配置 Git 信息
           git config user.name "GitHub Action Bot"
           git config user.email "actions@github.com"
+          
+          # 添加 README.md 和更新的預測文件到 Git
           git add README.md predictions/
+          
+          # 如果有更改則提交和推送，否則跳過提交
           if ! git diff --cached --quiet; then
             git commit -m "Update prediction counts"
             git push
