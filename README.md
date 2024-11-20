@@ -13,16 +13,16 @@ k66 (Lana Chen)
 
 Play a game: Predict today's Bitcoin price.
 
+<!-- BUTTON_VOTE_PLACEHOLDER -->
+
+[![Green Button (Rise)](https://img.shields.io/badge/Rise-Green?style=for-the-badge&color=green)](#)
+[![Red Button (Fall)](https://img.shields.io/badge/Fall-Red?style=for-the-badge&color=red)](#)
+
 ## Result統計結果: 
 (everybody has infinite votes一人多票)
 
 Rise(看漲次數): 10
 Fall(看跌次數): 10
-
-<!-- BUTTON_VOTE_PLACEHOLDER -->
-
-[![Green Button (Rise)](https://img.shields.io/badge/Rise-Green?style=for-the-badge&color=green)](#)
-[![Red Button (Fall)](https://img.shields.io/badge/Fall-Red?style=for-the-badge&color=red)](#)
 
 ---
 
