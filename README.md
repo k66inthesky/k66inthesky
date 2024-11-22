@@ -22,6 +22,7 @@ Weekly Result本週統計結果:
 
 <!-- BUTTON_VOTE_PLACEHOLDER -->
 
+<!-- BUTTON_VOTE_PLACEHOLDER_END -->
 ---
 
 
