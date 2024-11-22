@@ -13,19 +13,14 @@ k66 (Lana Chen)
 
 Play a game: Please vote this week's Bitcoin price.
 
-## Bitcoin Price Predictions
-Green (Rise): 0
-Red (Fall): 0
-Updated at: Thu Nov 21 01:22:55 UTC 2024
-
 [![Green Button (Rise)](https://img.shields.io/badge/Rise-Green?style=for-the-badge&color=green)](#)
 [![Red Button (Fall)](https://img.shields.io/badge/Fall-Red?style=for-the-badge&color=red)](#)
 
-## Weekly Result本週統計結果: 
+Weekly Result本週統計結果: 
+
 (everybody has infinite votes一人多票)
 
-Rise(看漲次數): 10
-Fall(看跌次數): 10
+<!-- BUTTON_VOTE_PLACEHOLDER -->
 
 ---
 
