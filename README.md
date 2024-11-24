@@ -20,7 +20,10 @@ Weekly Result本週統計結果:
 
 (everybody has infinite votes一人多票)
 
-<!-- BUTTON_VOTE_PLACEHOLDER -->
+## Bitcoin Price Predictions
+Green (Rise): 0
+Red (Fall): 0
+Updated at: Sun Nov 24 08:18:20 UTC 2024
 
 <!-- BUTTON_VOTE_PLACEHOLDER_END -->
 ---
