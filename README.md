@@ -1,6 +1,6 @@
 <h1 align="center"> 
 k66 (Lana Chen) 
-<a href="https://k66.ninja/" target="blank"><img align="center" src="https://k66.ninja/gallery/k66_logo-ts1678881148.png" alt="https://k66.ninja/" height="40" width="50" /></a>
+<a href="https://k66.ninja/" target="blank"><img align="center" src="https://k66.ninja/profile.jpg" alt="https://k66.ninja/" height="40" width="50" /></a>
 </h1>
 <h3 align="center"> A SWE/trader from Taiwan, I like jogging and camping. </h3>
 
@@ -82,14 +82,14 @@ Projects:
 
 ### My Fitness Log
 
-##### 2024.11
+##### 2024.12
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
-|Week1| x|x|7|x|
-|Week2| x|x|10|x|
-|Week3| x|x|6.5|x|
-|Week4| x|x|5|x|
+|Week1| x|10|3|x|
+|Week2| x|10|x|x|
+|Week3| x|2|x|x|
+|Week4| x|x|x|x|
 |Week5| x|x|x|x|
 
 
