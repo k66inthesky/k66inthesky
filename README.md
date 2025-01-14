@@ -7,42 +7,24 @@ k66 (Lana Chen)
 
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
----
-
-## Bitcoin Price Predictions
-
-Play a game: Please vote this week's Bitcoin price.
-
-[![Green Button (Rise)](https://img.shields.io/badge/Rise-Green?style=for-the-badge&color=green)](#)
-[![Red Button (Fall)](https://img.shields.io/badge/Fall-Red?style=for-the-badge&color=red)](#)
-
-Weekly Result本週統計結果: 
-
-(everybody has infinite votes一人多票)
-
-## Bitcoin Price Predictions
-Green (Rise): 0
-Red (Fall): 0
-Updated at: Sun Nov 24 08:18:20 UTC 2024
-
-<!-- BUTTON_VOTE_PLACEHOLDER_END -->
----
 
 
 
 Tutorials: 
+- 📈 [Daily Invest Podcast](https://sndn.link/k66) or [Podcast from Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYSTo5UILKz8XbyTBvTV7GdF) .
 - ₿ 📈 Cryptos investment videos&articles: [Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM), [iT鐵人賽(articles in Chinese)](https://ithelp.ithome.com.tw/users/20161828/ironman/7843)
-- ▶ [OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
+- 🖥️ [OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust), welcome to colab with me!
 
 
 Tools:
-- [TW-stock](https://github.com/k66inthesky/TW-stock/): Python tool for web crawling 20+ years stock data and backtesting.
-- [OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
-- [BRB](https://github.com/k66inthesky/BRB):  One-click tool, immediately tell people you will Be Right Back(BRB), in conference or write a bulletin note.
-- [線上文風比對系統](http://140.117.168.48:3000/similarity): My online compare writing style tool, [my master thesis](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22109NSYS5392077%22.&searchmode=basic). 
-- [Downdload Manga](https://github.com/k66inthesky/AutoDownloadManga): An auto download manga tool, download from 漫畫人(https://www.manhuaren.com/search).
-- [Auto-click Youtube](https://github.com/k66inthesky/YoutubeAutorun): An One-click continuous auto-click youtube tool.
+- 🎫 [StarkFair](https://github.com/k66inthesky/StarkFair/) 基於StarkNet的公平抽獎機。
+- 📈 [TW-stock](https://github.com/k66inthesky/TW-stock/): Python tool for web crawling 20+ years stock data and backtesting.
+- 🖥️[OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
+- 🖥️[BRB](https://github.com/k66inthesky/BRB):  One-click tool, immediately tell people you will Be Right Back(BRB), in conference or write a bulletin note.
+- 📄[線上文風比對系統](http://140.117.168.48:3000/similarity): My online compare writing style tool, [my master thesis](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22109NSYS5392077%22.&searchmode=basic). 
+- 📖[Downdload Manga](https://github.com/k66inthesky/AutoDownloadManga): An auto download manga tool, download from 漫畫人(https://www.manhuaren.com/search).
+- 🖱️[Auto-click Youtube](https://github.com/k66inthesky/YoutubeAutorun): An One-click continuous auto-click youtube tool.
 
 Master Thesis:
 - 🎓 [Master Thesis](https://github.com/k66inthesky/Master-Thesis)
@@ -82,13 +64,13 @@ Projects:
 
 ### My Fitness Log
 
-##### 2024.12
+##### 2025.01
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
-|Week1| x|10|3|x|
-|Week2| x|10|x|x|
-|Week3| x|2|x|x|
+|Week1| x|5|x|x|
+|Week2| x|5|x|x|
+|Week3| x|3|x|x|
 |Week4| x|x|x|x|
 |Week5| x|x|x|x|
 
