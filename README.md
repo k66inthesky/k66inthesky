@@ -64,13 +64,13 @@ Hobby:
 
 ### My Fitness Log
 
-##### 2025.01
+##### 2025.02
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
-|Week1| x|5|x|x|
-|Week2| x|5|x|x|
-|Week3| x|3|x|x|
+|Week1| x|x|x|x|
+|Week2| x|3|x|x|
+|Week3| x|x|x|x|
 |Week4| x|x|x|x|
 |Week5| x|x|x|x|
 
