@@ -31,7 +31,7 @@ k66 (Lana Chen)
 - 📰[Foresight News x TinTinland婦女節專訪](https://foresightnews.pro/article/detail/79762)
 
 📍👥Workshop/Meetup/Seminar:
-- 
+- [k66的加密幣投資暨春節行情分享](https://lu.ma/8d4snru6)
 
 🎓🧠Master Thesis:
 - 🎓 [Master Thesis](https://github.com/k66inthesky/Master-Thesis)
