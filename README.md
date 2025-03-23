@@ -10,14 +10,14 @@ k66 (Lana Chen)
 
 
 
-Tutorials: 
+🧑‍🏫📘Tutorials: 
 - 📈 [Daily Invest Podcast](https://sndn.link/k66) or [Podcast from Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYSTo5UILKz8XbyTBvTV7GdF) .
 - ₿ 📈 Cryptos investment videos&articles: [Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYTusHWhyia-7p2PWizet_IM), [iT鐵人賽(articles in Chinese)](https://ithelp.ithome.com.tw/users/20161828/ironman/7843)
 - 🖥️ [OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
 - 🦀 [Leetcode-Rust](https://github.com/k66inthesky/Leetcode-Rust), welcome to colab with me!
 
 
-Tools:
+🛠️⚙️Tools:
 - 🎫 [StarkFair](https://github.com/k66inthesky/StarkFair/) 基於StarkNet的公平抽獎機。
 - 📈 [TW-stock](https://github.com/k66inthesky/TW-stock/): Python tool for web crawling 20+ years stock data and backtesting.
 - 🖥️[OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
@@ -26,11 +26,19 @@ Tools:
 - 📖[Downdload Manga](https://github.com/k66inthesky/AutoDownloadManga): An auto download manga tool, download from 漫畫人(https://www.manhuaren.com/search).
 - 🖱️[Auto-click Youtube](https://github.com/k66inthesky/YoutubeAutorun): An One-click continuous auto-click youtube tool.
 
-Master Thesis:
+🗞️📺Media Mentions:
+- 📰[PA News x TinTinland婦女節專訪](https://www.panewslab.com/zh_hk/articledetails/ut76f692k5jt.html)
+- 📰[Foresight News x TinTinland婦女節專訪](https://foresightnews.pro/article/detail/79762)
+
+📍👥Workshop/Meetup/Seminar:
+- 
+
+🎓🧠Master Thesis:
 - 🎓 [Master Thesis](https://github.com/k66inthesky/Master-Thesis)
 
-Hobby:
-- 📚 [Ruckus Manga](https://www.youtube.com/@RuckusManga%E9%BA%BB%E7%85%A9%E6%BC%AB%E7%95%AB%E7%A4%BE), season 1 has completed.
+🧩📗Hobby:
+- Jogging, camping
+- 🎨 [Ruckus Manga](https://www.youtube.com/@RuckusManga%E9%BA%BB%E7%85%A9%E6%BC%AB%E7%95%AB%E7%A4%BE), season 1 has completed.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,15 +72,15 @@ Hobby:
 
 ### My Fitness Log
 
-##### 2025.02
+##### 2025.03
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
-|Week1| x|x|x|x|
-|Week2| x|3|x|x|
-|Week3| x|x|x|x|
-|Week4| x|x|x|x|
-|Week5| x|x|x|x|
+|Week1| x|x|3|x|
+|Week2| x|x|3|x|
+|Week3| x|x|3|x|
+|Week4| x|x|3|x|
+|Week5| x|6|3|x|
 
 
 
