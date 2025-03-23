@@ -19,8 +19,8 @@ k66 (Lana Chen)
 - 🖱️[Auto-click Youtube](https://github.com/k66inthesky/YoutubeAutorun): An One-click continuous auto-click youtube tool.
 
 🗞️📺Media Mentions:
-- 📰[PA News x TinTinland婦女節專訪](https://www.panewslab.com/zh_hk/articledetails/ut76f692k5jt.html)
-- 📰[Foresight News x TinTinland婦女節專訪](https://foresightnews.pro/article/detail/79762)
+- 📰[PA News TinTinland婦女節專訪](https://www.panewslab.com/zh_hk/articledetails/ut76f692k5jt.html)
+- 📰[Foresight News TinTinland婦女節專訪](https://foresightnews.pro/article/detail/79762)
 
 📍👥Workshop/Meetup/Seminar:
 - [k66的加密幣投資暨春節行情分享](https://lu.ma/8d4snru6)
