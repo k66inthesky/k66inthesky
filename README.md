@@ -23,7 +23,8 @@ k66 (Lana Chen)
 - 📰[Foresight News TinTinland婦女節專訪](https://foresightnews.pro/article/detail/79762)
 
 📍👥Workshop/Meetup/Seminar:
-- [k66的加密幣投資暨春節行情分享](https://lu.ma/8d4snru6)
+- Jan 16, 2025 [k66的加密幣投資暨春節行情分享](https://lu.ma/8d4snru6)
+- May 13, 2025 [手把手帶你刷幣安空投](https://lu.ma/68vq8c8w)
 
 🧑‍🏫📘Tutorials: 
 - 🎥📈 [Daily Invest Podcast](https://sndn.link/k66) or [Podcast from Youtube](https://www.youtube.com/playlist?list=PL-05BIe2QCYSTo5UILKz8XbyTBvTV7GdF) .
@@ -71,15 +72,15 @@ k66 (Lana Chen)
 
 ### My Fitness Log
 
-##### 2025.03
+##### 2025.05
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
-|Week1| x|x|3|x|
-|Week2| x|x|3|x|
-|Week3| x|x|3|x|
-|Week4| x|x|3|x|
-|Week5| x|6|3|x|
+|Week1| x|x|x|x|
+|Week2| x|x|2|x|
+|Week3| x|x|x|x|
+|Week4| x|x|x|x|
+|Week5| x|x|x|x|
 
 
 
