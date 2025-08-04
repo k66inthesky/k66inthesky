@@ -18,7 +18,7 @@ k66 (Lana Chen)
 - 📄[線上文風比對系統](http://140.117.168.48:3000/similarity): My online compare writing style tool, based on [my master thesis](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22109NSYS5392077%22.&searchmode=basic). 
 - 📖[Downdload Manga](https://github.com/k66inthesky/AutoDownloadManga): An auto download manga tool, download from 漫畫人(https://www.manhuaren.com/search).
 - 🖱️[Auto-click Youtube](https://github.com/k66inthesky/YoutubeAutorun): An One-click continuous auto-click youtube tool.
-- 👛[KAIA Dapp Demo](https://github.com/k66inthesky/KaiaDemo): This tool helps deveopler quickly build a KAIA wallet, mint NFT.
+- 👛[KAIA Dapp Demo](https://github.com/k66inthesky/KaiaDemo): This tool helps developer quickly build a KAIA wallet, mint NFT.
 - 🫂[Taskemon](https://github.com/k66inthesky/Taskemon): A company chrome extension, based on Flow Blockchain, supported chat with Deepseek-R1.
 
 
