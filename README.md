@@ -11,7 +11,7 @@ k66 (Lana Chen)
 
 🛠️⚙️Tools:
 - 🛡️[SuiGuard](https://github.com/k66inthesky/suiguard) 一個專為 SUI 區塊鏈生態系統設計的安全防護 Chrome 擴展。
-- 🎫 [StarkFair](https://github.com/k66inthesky/StarkFair/) 基於StarkNet的公平抽獎機。
+- 🎫 [StarkFair](https://github.com/k66inthesky/StarkFair/) 基於StarkNet的公平抽獎機。🥉黑客松第三名。
 - 📈 [TW-stock](https://github.com/k66inthesky/TW-stock/): Python tool for web crawling 20+ years stock data and backtesting.
 - ⚙️[OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
 - ⚙️[BRB](https://github.com/k66inthesky/BRB):  One-click tool, immediately tell people you will Be Right Back(BRB), in conference or write a bulletin note.
@@ -69,7 +69,7 @@ k66 (Lana Chen)
 </p>
 
 
-<a href="https://buymeacoffee.com/k66inthesky"  title="BuyMeACoffee"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlUX3K42FW5OXOjHq5coVXi08P4KH-zwFjtQ&s" /></a>
+<a href="https://buymeacoffee.com/k66inthesky"  title="BuyMeACoffee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" /></a>
 
 
 ---
