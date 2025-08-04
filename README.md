@@ -10,6 +10,7 @@ k66 (Lana Chen)
 
 
 🛠️⚙️Tools:
+- 🛡️[SuiGuard](https://github.com/k66inthesky/suiguard) 一個專為 SUI 區塊鏈生態系統設計的安全防護 Chrome 擴展。
 - 🎫 [StarkFair](https://github.com/k66inthesky/StarkFair/) 基於StarkNet的公平抽獎機。
 - 📈 [TW-stock](https://github.com/k66inthesky/TW-stock/): Python tool for web crawling 20+ years stock data and backtesting.
 - ⚙️[OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
@@ -72,12 +73,12 @@ k66 (Lana Chen)
 
 ### My Fitness Log
 
-##### 2025.05
+##### 2025.08
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
-|Week1| x|x|x|x|
-|Week2| x|x|2|x|
+|Week1| x|5|2|20|
+|Week2| x|x|x|x|
 |Week3| x|x|x|x|
 |Week4| x|x|x|x|
 |Week5| x|x|x|x|
