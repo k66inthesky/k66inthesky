@@ -10,7 +10,7 @@ k66 (Lana Chen)
 
 
 🛠️⚙️Tools:
-- 🛡️[SuiGuard](https://github.com/k66inthesky/suiguard) 一個專為 SUI 區塊鏈生態系統設計的安全防護 Chrome 擴展。
+- 🛡️[SuiGuard](https://github.com/k66inthesky/suiguard) 一個專為 SUI 區塊鏈生態系統設計的安全防護 Chrome 擴展。🥉[黑客松](https://x.com/VisionM_F/status/1967287863831380271)第三名。
 - 🎫 [StarkFair](https://github.com/k66inthesky/StarkFair/) 基於StarkNet的公平抽獎機。🥉黑客松第三名。
 - 📈 [TW-stock](https://github.com/k66inthesky/TW-stock/): Python tool for web crawling 20+ years stock data and backtesting.
 - ⚙️[OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
