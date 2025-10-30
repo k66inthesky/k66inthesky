@@ -10,7 +10,8 @@ k66 (Lana Chen)
 
 
 🛠️⚙️Tools:
-- 🛡️[SuiGuard](https://github.com/k66inthesky/suiguard) 一個專為 SUI 區塊鏈生態系統設計的安全防護 Chrome 擴展。🥉[黑客松](https://x.com/VisionM_F/status/1967287863831380271)第三名。
+- 🛡️[SuiAudit](https://github.com/k66inthesky/suiguard)原名SuiGuard 🥈2nd place at [Sui HOH mandarin Hackathon](https://x.com/0xHOH/status/1983472825689358499)
+- 🥉[SuiAudit](https://x.com/VisionM_F/status/1967287863831380271)原名SuiGuard🥉3rd place at [Sui Taipei Dev Hackathon](https://x.com/VisionM_F/status/1967287863831380271)
 - 🎫 [StarkFair](https://github.com/k66inthesky/StarkFair/) 基於StarkNet的公平抽獎機。🥉黑客松第三名。
 - 📈 [TW-stock](https://github.com/k66inthesky/TW-stock/): Python tool for web crawling 20+ years stock data and backtesting.
 - ⚙️[OinkBL](https://github.com/k66inthesky/OinkBL): DIY your own boot screen, bootloader.
@@ -77,12 +78,12 @@ k66 (Lana Chen)
 
 ### My Fitness Log
 
-##### 2025.09
+##### 2025.11
 
 |📅 Date|🚴 Ride(km)|🏃 Walk(km)|🏊‍♀️Swim(m)| 🏋 Fitness(mins)| 
 |:-:|:-:|:-:|:-:|:-:|
-|Week1| x|x|10|x|
-|Week2| x|x|3|x|
+|Week1| x|x|x|x|
+|Week2| x|x|x|x|
 |Week3| x|x|x|x|
 |Week4| x|x|x|x|
 |Week5| x|x|x|x|
