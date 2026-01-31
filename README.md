@@ -58,6 +58,8 @@ k66 (Lana Chen)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://www.soliditylang.org/" target="_blank" rel="Solidity"><img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.sui.io/move" target="_blank" rel="Sui-Move"><img src="https://cryptologos.cc/logos/sui-sui-logo.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="[https://www.rust-lang.org/zh-TW](https://www.python.org/)" target="_blank" rel="Rust"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a> 
   <a href="https://www.rust-lang.org/zh-TW" target="_blank" rel="Rust"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" width="40" height="40"/> </a> 
