@@ -11,6 +11,7 @@ k66 (Lana Chen)
 - [HackenProof](https://hackenproof.com/hackers/k66)
 
 🛠️⚙️Tools:
+- 🛡️🦞💧[SuiSec](https://github.com/k66inthesky/SuiSec) A security extension for OpenClaw's Sui client call and PTB dry-run capabilities
 - 💧[SuiAudit](https://github.com/k66inthesky/suiguard)原名SuiGuard 🥈2nd place at [Sui HOH mandarin Hackathon](https://x.com/0xHOH/status/1983472825689358499)
 - 💧[SuiAudit](https://x.com/VisionM_F/status/1967287863831380271)原名SuiGuard🥉3rd place at [Sui Taipei Dev Hackathon](https://x.com/VisionM_F/status/1967287863831380271)
 - 🎫 [StarkFair](https://github.com/k66inthesky/StarkFair/) 基於StarkNet的公平抽獎機。🥉黑客松第三名。
