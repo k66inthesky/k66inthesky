@@ -2,7 +2,7 @@
 k66 (Lana Chen) 
 <a href="https://k66.ninja/" target="blank"><img align="center" src="https://k66.ninja/profile.jpg" alt="https://k66.ninja/" height="40" width="50" /></a>
 </h1>
-<h3 align="center"> A SWE/trader from Taiwan, I like jogging and camping. </h3>
+<h3 align="center"> A senior software engineer, smart contract developer from Taiwan, I like jogging and biking.🏃‍♀️🚴‍♂️ </h3>
 
 
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
