@@ -7,6 +7,11 @@ k66 (Lana Chen)
 
 ![](https://komarev.com/ghpvc/?username=k66inthesky)
 
+👾🚩CTF:
+1. [MystenLabs Move CTF](https://github.com/k66inthesky/2026-Sui-CTF): This was an in-person event so I wasn't eligible to participate, but I still solved 4/5 challenges(merchant, moving_window, lootboxes, staking) on my own (Sabotage Arena was blocked due to the expired deadline).  Proof on-chain at
+  `0x39876837dd9deec60b256742a1ba15e06de5aa1802354768e21a22cf6c120637`.
+2. [Unphishable](https://unphishable.io/): 4th place.
+
 🕵🔎Bug Bounty:
 - [HackenProof](https://hackenproof.com/hackers/k66)
 
