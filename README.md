@@ -45,7 +45,7 @@
 - 🔐 **Singu Vault** — On-chain vault dApp
   - [singuvault-contracts](https://github.com/EveULuvMe/singuvault-contracts) (Move) · [singuvault-app](https://github.com/EveULuvMe/singuvault-app) (TypeScript)
 - 💰 [**H2O Smart DCA**](https://github.com/k66inthesky/H2OMoney) — Telegram bot for smart DCA on Sui, integrating Cetus Aggregator for best-route swaps and StableLayer SDK for BrandUSD yield. Idle capital auto-earns through a receipt-token vault (H2OUSD) layered on BrandUSD + Cetus CLMM LP fees. Full stack: Move contracts · Grammy bot · Next.js dApp
-
+- 🪼 [**Velella Dashboard**](https://github.com/k66inthesky/velella-sui-app) — Lightweight Sui full-stack dashboard bridging Mainnet assets and Testnet data ([live demo](https://velella-sui-app.vercel.app/)). Integrates **zkLogin** (Enoki + Google OAuth), **Walrus** (AES-256-GCM encrypted storage), **DeepBook V3** (DEEP/SUI orderbook DEX), and **Bucket Protocol** (CDP vaults, PSM, oracle pricing). React + TypeScript + Vite, deployed on Vercel Serverless.
   
 ---
 
@@ -62,6 +62,7 @@ Gaming dApps built on the [EVE Frontier](https://www.evefrontier.com/) ecosystem
 
 ## 🧑‍💻 Selected Projects
 
+- 🕵️ [**StegoMint**](https://github.com/k66inthesky/StegoMint) — Bitcoin steganography wallet disguised as a Sudoku game ([live demo](https://stegomint.shakespeare.wtf) · [video](https://www.youtube.com/watch?v=kpVK8eapx70)). Dual-identity unlock: normal unlock shows a decoy wallet (Duress Mode); secret trigger reveals the real BTC transfer interface (God Mode). Built at [btc++ Taipei Hackathon 2025](https://www.btcplusplus.dev/) with Bitcoin Dev Kit + UniSat Wallet. [Successful testnet TX](https://mempool.space/testnet/tx/fd91912ebb9a546d543b83b2287c37cd790fb0a1471f94ba6a07c547fd9afcef)
 - 🐾 [**GitPet**](https://github.com/k66inthesky/GitPet) — GitHub CLI extension + MCP server that turns your Git activity into a digital pet. Go-based, built for the GitHub Copilot CLI Challenge
 - 🛠️ [**Simple C Compiler**](https://github.com/k66inthesky/Simple_C_Compiler) — C-like compiler in C++ with lexer, parser, and statement executor (if/while/do-while/compound blocks)
 - 🎫 [**StarkFair**](https://github.com/k66inthesky/StarkFair/) — Provably-fair on-chain lottery on StarkNet
@@ -70,7 +71,6 @@ Gaming dApps built on the [EVE Frontier](https://www.evefrontier.com/) ecosystem
 - 📈 [**TW-stock**](https://github.com/k66inthesky/TW-stock/) — Python crawler and backtester over 20+ years of Taiwan stock data
 - 🦀 [**Leetcode-Rust**](https://github.com/k66inthesky/Leetcode-Rust) — LeetCode solutions in Rust (open to collaborators)
 - ⚙️ [**OinkBL**](https://github.com/k66inthesky/OinkBL) — Build your own bootloader and boot screen
----
 
 ## 📚 Research & Writing
 
