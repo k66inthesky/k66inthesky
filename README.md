@@ -15,9 +15,9 @@
 ## 🏆 Highlights
 
 - 🥈 **2nd place** — [Sui HOH Mandarin Hackathon](https://x.com/0xHOH/status/1983472825689358499) with [SuiAudit](https://github.com/SuiAuditLab/suiaudit) (smart contract auditing tool), and [📄Paper](https://doi.org/10.36227/techrxiv.177204934.48017152/v1)
-
 - 🥉 **3rd place** — [Sui Taipei Dev Hackathon](https://x.com/VisionM_F/status/1967287863831380271) with SuiAudit
 - 🥉 **3rd place** — StarkNet Hackathon with [StarkFair](https://github.com/k66inthesky/StarkFair/) (provably-fair lottery)
+- 🥉 **3rd place** - [Ethereum Challenge at Gamedev.js Jam 2026](https://gamedevjs.com/jam/2026/challenges-winners-feedback/#ethereum)🎮 , see [GitHub Repo](https://github.com/k66inthesky/evm-the-machine)
 - 💧 **[Sui Vibe Hackathon 2026](https://www.deepsurge.xyz/projects/f399b751-3596-4b45-a687-7e70afcd0d80)** — [H2O Smart DCA](https://github.com/k66inthesky/H2OMoney) (Cetus + StableLayer dual-track entry)
 - 🏅 **4th place** — [Unphishable CTF](https://unphishable.io/)
 - 🎯 **Solved 4/5 challenges** in [MystenLabs Move CTF 2026](https://github.com/k66inthesky/2026-Sui-CTF) independently (merchant, moving_window, lootboxes, staking) — on-chain proof: `0x39876837dd9deec60b256742a1ba15e06de5aa1802354768e21a22cf6c120637`
