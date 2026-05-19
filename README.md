@@ -1,6 +1,6 @@
 <h1 align="center">k66 (Lana Chen)</h1>
 <h3 align="center">Smart Contract Engineer · Security Researcher · Full-Stack Developer</h3>
-<h4 align="center">Sui Move / Solidity · Building <a href="https://suiaudit.com">SuiAudit</a> · Open to Web3 roles</h4>
+<h4 align="center">Sui Move / Solidity · Building <a href="https://github.com/ConsssLabs">Consss Wars </a> and <a href="https://github.com/Blubuu-Finance">Blubuu Finance</a> · Open to Web3 roles</h4>
 
 <p align="center">
   <a href="https://k66.ninja">🌐 k66.ninja</a> ·
