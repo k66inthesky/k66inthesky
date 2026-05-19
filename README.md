@@ -4,8 +4,9 @@
 
 <p align="center">
   <a href="https://k66.ninja">🌐 k66.ninja</a> ·
-  <a href="https://www.linkedin.com/in/lanacchen/">LinkedIn</a> ·
-  <a href="https://linktr.ee/k66inthesky">Linktree</a>
+  <a href="https://www.linkedin.com/in/lanacchen/">🌐 LinkedIn</a> ·
+  <a href="https://linktr.ee/k66inthesky">🌐 Linktree</a> ·
+  <a href="https://gravatar.com/k66ninja">🌐 Gravatar</a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=k66inthesky" /></p>
