@@ -7,8 +7,12 @@
   <a href="https://www.linkedin.com/in/lanacchen/">🌐 LinkedIn</a> ·
   <a href="https://linktr.ee/k66inthesky">🌐 Linktree</a> ·
   <a href="https://gravatar.com/k66ninja">🌐 Gravatar</a>
+  
 </p>
-
+<p align="center">I am cooking the first blockchain epic game "ConSSS Wars: Echoes of Chainoa". 
+  <a href="https://conssswars.com">🌐Play it</a>,
+  <a href="https://github.com/ConsssLabs">🌐GitHub</a>
+</p> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=k66inthesky" /></p>
 
 ---
