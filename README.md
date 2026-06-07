@@ -10,8 +10,8 @@
   
 </p>
 <p align="center">I am cooking the first blockchain epic game "ConSSS Wars: Echoes of Chainoa". 
-  <a href="https://conssswars.com">🌐Play it</a>,
-  <a href="https://github.com/ConsssLabs">🌐GitHub</a>
+  <a href="https://play.conssswars.com">🌐Play it</a>,
+  <a href="https://github.com/ConsssLab">🌐GitHub</a>
 </p> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=k66inthesky" /></p>
 
