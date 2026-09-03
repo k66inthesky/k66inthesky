@@ -1,6 +1,6 @@
 <h1 align="center">k66 (Lana Chen)</h1>
-<h3 align="center">Smart Contract Engineer · Security Researcher · Full-Stack Developer</h3>
-<h4 align="center">Sui Move / Solidity · Building <a href="https://github.com/ConsssLab">Consss Wars </a> and <a href="https://github.com/Blubuu-Finance">Blubuu Finance</a> · Open to Web3 roles</h4>
+<h3 align="center">Smart Contract Engineer · Full-Stack Developer</h3>
+<h4 align="center">Sui Move / Solidity · Building <a href="https://eatvege.app">吃菜吧 (EatVege) </a> </h4>
 
 <p align="center">
   <a href="https://k66.ninja">🌐 k66.ninja</a> ·
@@ -9,7 +9,12 @@
   <a href="https://gravatar.com/k66ninja">🌐 Gravatar</a>
   
 </p>
-<p align="center">I am cooking the first blockchain epic game "ConSSS Wars: Echoes of Chainoa". 
+<p align="center">吃菜吧 (EatVege) - a gamed app helps keep eating veggies habbit". 
+  <a href="https://eatvege.app">🌐Official</a>,
+  <a href="https://github.com/EatVege">🌐GitHub</a>
+  <a href="https://www.threads.com/@eatvege.app">🌐Threads</a>
+</p> 
+<p align="center">The first blockchain epic game "ConSSS Wars: Echoes of Chainoa". 
   <a href="https://play.conssswars.com">🌐Play it</a>,
   <a href="https://github.com/ConsssLab">🌐GitHub</a>
 </p> 
